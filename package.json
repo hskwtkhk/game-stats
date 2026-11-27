@@ -1,0 +1,1 @@
+{"name":"game-stats","version":"1.0.0","private":true,"description":"ゲーム戦績集計Webアプリ","scripts":{"start":"node server.js","test":"node --test test.js"},"engines":{"node":">=22"},"dependencies":{"xlsx-populate":"1.21.0"}}
